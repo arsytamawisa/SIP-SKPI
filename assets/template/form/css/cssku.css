@@ -1,0 +1,70 @@
+body{
+	font-family: 'Arial Narrow', sans-serif;
+	font-style: bolder;
+}
+
+footer {
+	position: fixed; 
+	bottom: -20px; 
+	left: 0px; 
+	right: 0px;
+	height: 50px;
+}
+
+.header{
+	text-align: center;
+	font-family: 'Arial Black', sans-serif;
+	font-weight: bolder;
+	font-size: 18px;
+	margin-top: -5px;
+}
+
+.number{
+	font-size: 10px;
+	text-align: center;
+	margin: 0px;
+}
+
+hr{
+	border: 0.5px solid black;
+	margin: 0 auto;
+	width: 35%;
+}
+
+.text{
+	font-size: 10px;
+	margin: 0;
+}
+
+th{
+	padding-right: 10px;
+	font-size: 10px;
+}
+
+td{
+	vertical-align: top;
+	padding-left: 10px;
+	font-size: 10px;
+}
+
+.isi{
+	text-align: justify;
+}
+
+.spasi{
+	padding-bottom: 5px;
+}
+
+.page_break{ 
+	page-break-before: always; 
+}
+
+.judul td{
+	padding-top: 10px;
+	font-weight: bold;
+}
+
+.tandatangan{
+	font-weight: bold;
+	margin: 0;
+}

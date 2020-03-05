@@ -1,0 +1,34 @@
+================================================
+
+=ADMIN=
+- Edit validasi modal, jika error edit modal tidak terseleksi
+
+
+
+=PENERJEMAH=
+- Format informasi tambahan
+- Template input keterangan validasi ditolak
+- Jika status diubah menjadi ditolak otomatis muncul form
+
+
+
+=ADMIN PRODI=
+- Upload Excel, jika data sama tidak terinput, data lain tetap masuk
+- File upload data mahasiswa tidak terhapus
+
+
+
+=MAHASISWA=
+- 
+
+
+================================================
+
++ Responsive
++ Setting Envirounment Development, Production
++ Multiple Action
++ Captcha (Google Captcha)
++ Hosting Git (SFTP)
++ Validasi Modal
+
+================================================
